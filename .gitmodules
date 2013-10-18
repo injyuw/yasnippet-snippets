@@ -1,0 +1,3 @@
+[submodule "clojure-snippets"]
+	path = clojure-snippets
+	url = https://github.com/injyuw/clojure-snippets

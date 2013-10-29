@@ -1,6 +1,6 @@
 #contributor: Xah Lee (XahLee.org)
 #name: message
 #key: message
-#key: m
+#key: mess
 # --
 (message "FORMATSTRING$0" &optional ARGS)

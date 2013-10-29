@@ -1,0 +1,6 @@
+#contributor: John Walker (injyuw.github.io)
+#name: mapcarrange
+#key: mr
+# --
+(mapcar #'(lambda (x) $0) (number-sequence $1))
+

@@ -1,3 +1,6 @@
 [submodule "clojure-snippets"]
 	path = clojure-snippets
 	url = https://github.com/injyuw/clojure-snippets
+[submodule "clojure-mode"]
+	path = clojure-mode
+	url = git://github.com/johnwalker/clojure-snippets.git
